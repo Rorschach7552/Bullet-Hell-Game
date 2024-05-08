@@ -1,0 +1,13 @@
+{
+  "Lives": 7,
+  "Bombs": 3,
+  "AttackInterval": 60,
+  "Speed": 1.8,
+  "Up": 87,
+  "Down": 83,
+  "Left": 65,
+  "Right": 68,
+  "Shoot": 32,
+  "SlowDown": 160,
+  "Pause": 80
+}
